@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Do\u0027kon Hisobi",
+  "description": "Oziq-ovqat do\u0027konlari uchun 1C kabi sodda, tushunarli va o\u0027zbek tilidagi mukammal hisob-kitob va kassa tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
